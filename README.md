@@ -103,7 +103,7 @@ Content-Type: application/json
 
 ## 📌 Status do Projeto
 
-Este projeto está em desenvolvimento como atividade acadêmica.
+Este projeto está em desenvolvimento como atividade do curso.
 - [x] Estrutura inicial do Django
 - [x] Pages: home, histórico, gráfico, sobre
 - [x] Endpoint para receber dados do sensor
